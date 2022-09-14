@@ -1,0 +1,109 @@
+1
+Multiplication Table 
+
+Compile and Execute the C program to print the multiplication table of number m up to n.
+Sample Input:
+M = 4
+N = 5
+Sample Output:
+1x4=4
+2x4=8
+3x4=12
+4x4=16
+5x4=20
+Test cases:
+M = 6, N = -3
+M = -3, N = 5
+M = 4, N = 0
+M = 0, N = 0
+M = -5, N = -5
+
+
+2
+Factorial
+
+Compile and Execute the C program to find the Factorial of a positive integer (number) is the sum of multiplication of all the integers smaller than that positive integer. N! is denoted as factorial of N. For example, factorial of 5 is 5 * 4 * 3 * 2 * 1 which equals to 120.
+
+Sample Input:
+N = 5
+
+Sample Output:
+120 
+
+Test cases:
+N = 0
+N = -5
+N = 1
+N = Q
+N = 3A
+
+
+3
+Perfect Number 
+
+Suppose the number to be check is 6: The user has provided one number that is ‘6’, now we have to think and calculate by which other numbers we can divide ‘6’ and get the remainder as ‘0’. If the remainder is zero, then we can say that ‘6’ is divisible by that number and we can take this number into consideration to get the sum by using some more other numbers. Compile and execute the above C program.
+Sample Input:
+Given Number: 6
+
+Sample Output:
+Its a Perfect Number 
+
+Test cases:
+17
+26!
+143
+84.1
+-963
+
+
+
+4
+Pattern
+Write a program to print the following pattern. Get the number of rows from the user.
+Sample input:
+Number of Rows: 5
+Sample output:
+           	  1
+            2  1
+           3  2  1
+         4  3  2  1
+       5  4  3  2  1
+Test case:
+Number of Rows: 6,9,0.5,-1,A
+
+
+5
+Arithmetic operations 
+
+Compile and Execute the C program to calculate Arithmetic Operators Functions such as Pow(x,n), Add(x,n), Sub(x,n), Mul(x,n), Div(x,n), where x and n are the two operands.  Get the input and choice from the user.
+
+Sample Input:
+X = 2
+N = 4
+Choice : 2
+
+Sample Output:
+Add(X,N) = 6
+
+Test cases:
+X = 0 , N = 4
+X = 5 , N = 0
+X = -3 , N = 3
+X = 0 ,  N = 0
+X = 123, N = 123
+
+
+6
+Write a program to print n prime numbers then find the nth Prime number
+Sample Input:
+N = 3
+Sample Output:
+3rd  Prime number is 5
+3 prime numbers after 5 are: 7, 11, 13
+Test cases:
+N = P
+N = 0
+N = -4
+N = 11
+N = 7.2
+
